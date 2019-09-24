@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<text class="title">Hello地雷</text>
+<button size="mini">按钮</button>
+<view>01_知识点01</view>
+<view>11111</view>
